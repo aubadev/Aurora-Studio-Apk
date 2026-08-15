@@ -3,6 +3,6 @@
     <item
         android:width="66dp"
         android:height="66dp"
-        android:drawable="@drawable/img_app_icon_1786823527728"
+        android:drawable="@drawable/aurora_custom_logo"
         android:gravity="center" />
 </layer-list>

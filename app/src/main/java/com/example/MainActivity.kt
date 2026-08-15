@@ -183,7 +183,7 @@ fun AppScreen(isDarkMode: Boolean) {
                 ) {
                     Column(horizontalAlignment = Alignment.CenterHorizontally) {
                         Image(
-                            painter = painterResource(id = R.drawable.img_app_icon_1786823527728),
+                            painter = painterResource(id = R.drawable.aurora_custom_logo),
                             contentDescription = "Aurora Studio Logo",
                             modifier = Modifier
                                 .size(100.dp)
@@ -212,7 +212,7 @@ fun AppScreen(isDarkMode: Boolean) {
                     contentAlignment = Alignment.Center
                 ) {
                     Image(
-                        painter = painterResource(id = R.drawable.img_app_icon_1786823527728),
+                        painter = painterResource(id = R.drawable.aurora_custom_logo),
                         contentDescription = "Aurora Studio Logo",
                         modifier = Modifier
                             .size(160.dp)
