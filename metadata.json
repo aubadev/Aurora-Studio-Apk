@@ -1,0 +1,6 @@
+{
+  "name": "Aurora Studio",
+  "description": "WebView app for Aurora Studio",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
